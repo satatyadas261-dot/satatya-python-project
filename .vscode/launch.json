@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run expriment1.py",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/expriment1.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "python": "${workspaceFolder}/.venv/Scripts/python.exe"
+    }
+  ]
+}
